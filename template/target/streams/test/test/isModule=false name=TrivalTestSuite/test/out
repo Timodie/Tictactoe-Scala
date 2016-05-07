@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mTrivalTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Solution object must be defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- Create game works[0m[0m
+[0m[[0minfo[0m] [0m[32m- getWinner[0m[0m
+[0m[[0minfo[0m] [0m[32m- X won game[0m[0m
+[0m[[0minfo[0m] [0m[32m- O won game[0m[0m
+[0m[[0minfo[0m] [0m[32m- Minimax X wins[0m[0m
+[0m[[0minfo[0m] [0m[32m- Minimax O Wins[0m[0m
